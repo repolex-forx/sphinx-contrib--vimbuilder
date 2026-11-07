@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/sphinx-contrib/vimbuilder/commit/c2c1e17206c2c72d0319de503680732dbdc50b89",
       "git:hexsha": "c2c1e17206c2c72d0319de503680732dbdc50b89",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
