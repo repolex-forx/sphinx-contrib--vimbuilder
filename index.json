@@ -1,0 +1,11 @@
+{
+  "org": "sphinx-contrib",
+  "repo": "vimbuilder",
+  "versions": [
+    {
+      "commit": "c2c1e17206c2c72d0319de503680732dbdc50b89",
+      "tag": "",
+      "parsed_at": "2026-11-07T00:42:21.841848+00:00"
+    }
+  ]
+}
