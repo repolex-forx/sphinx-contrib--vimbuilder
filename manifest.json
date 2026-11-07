@@ -1,0 +1,40 @@
+{
+  "manifest_version": "1.0",
+  "org": "sphinx-contrib",
+  "repo": "vimbuilder",
+  "versions": [
+    {
+      "commit": "c2c1e17206c2c72d0319de503680732dbdc50b89",
+      "parsed_at": "2026-11-07T00:40:11.263569+00:00",
+      "filetree": "filetree/c2c1e17206c2c72d0319de503680732dbdc50b89.nq.gz",
+      "blobs": [
+        "blob/4f220e8a098979ae369417a074ee9f8f4538aaee.nq.gz",
+        "blob/5232642a153ba4137d4621bb01460191af389bf6.nq.gz",
+        "blob/b779e981c68997d156440e039911d18e2a020b33.nq.gz",
+        "blob/81b15fb6dc590c7a8669ddf496dd6b7bf6e3f715.nq.gz",
+        "blob/07525f6e9205b8853bb3962e87ec453cd2b88d9c.nq.gz",
+        "blob/b0f9d22d74f0e3111f3632504394772f404f0ce4.nq.gz",
+        "blob/f0dbfeb20a46ad25c2d3b880a057ba7e6a3857c1.nq.gz",
+        "blob/c6a1f76d665164f42546010dee0d7b539142f881.nq.gz",
+        "blob/f2fe5d9ddcd771128f891388e288e7dd671e0097.nq.gz",
+        "blob/2f2cf9862a629e8e093e8a4183df4ebd05a53023.nq.gz",
+        "blob/d227e7e71571d18ed1706a1627070720bf2d4e5e.nq.gz",
+        "blob/42243715c2d93bf1cab7203df145e1a07251739f.nq.gz",
+        "blob/7b09ea1e73b3ccc0996cc33b12304a7658058293.nq.gz",
+        "blob/f78e9a71351a9015e808b0c7bb6275159ec6310b.nq.gz",
+        "blob/ce262d32c413e67843d3d599c9221a290be5e6f1.nq.gz",
+        "blob/ada5f0bc5e3280df8a14187c4a36b89f1dd5d52f.nq.gz",
+        "blob/5014b1d837a3da77817eafe2f12400effb3bf6dd.nq.gz",
+        "blob/c19c48301f58487fdc0e1a9c8eb93347b2db2b52.nq.gz",
+        "blob/ce73547ac981ef32efef89514d0e881595dbe14d.nq.gz",
+        "blob/031fdfa48e507a739ca119708505494ea8b25a09.nq.gz",
+        "blob/9ab67c219753944aa1ec1306c9b1a573a6666a9b.nq.gz",
+        "blob/ce9dd46eee43c7f07f3fd602120e2934363eb449.nq.gz",
+        "blob/509c63686f5a7fd7b8cfcbb2222307c19ef77b15.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz"
+}
